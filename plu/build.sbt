@@ -1,0 +1,3 @@
+sbtPlugin := true
+
+name := "plu"
